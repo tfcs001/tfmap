@@ -4,8 +4,8 @@ http://tfcs.tpddns.cn
 
 # build and run
 ## build and install
-tfmap# cd map/
-tfmap/map# make
+tfmap# cd map/<br>
+tfmap/map# make<br>
 tfmap/map# make install
 
 ## run
