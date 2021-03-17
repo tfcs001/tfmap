@@ -2,7 +2,7 @@
 
 CXX = g++
 
-TARGET = tf_map
+TARGET = tfmap
 
 INC = -I. -I../common -I../config -I../log
 
