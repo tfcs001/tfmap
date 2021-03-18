@@ -34,6 +34,8 @@ export https_proxy=http://ip:16667<br>
 export http_proxy=http://username:passwd@ip:16667<br>
 export https_proxy=http://username:passwd@ip:16667<br>
 
+# Instructions
+http://tfcs.tpddns.cn:8888/forum.php?mod=forumdisplay&fid=2
 
 # Contacts
 http://tfcs.tpddns.cn:8888 <br>
