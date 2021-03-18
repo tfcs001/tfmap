@@ -1,6 +1,6 @@
 # tfmap
 
-http://tfcs.tpddns.cn
+A http & https proxy server for Linux
 
 # build and run
 ## build and install
@@ -33,3 +33,8 @@ export https_proxy=http://ip:16667<br>
 ### auth
 export http_proxy=http://username:passwd@ip:16667<br>
 export https_proxy=http://username:passwd@ip:16667<br>
+
+
+# Contacts
+http://tfcs.tpddns.cn<br>
+email: tfcs_admin@163.com
